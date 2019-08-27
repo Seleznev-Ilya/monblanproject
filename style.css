@@ -38,10 +38,9 @@ input {outline:none;}
     margin-bottom: 34px;
 }
 .ui-datepicker-trigger{
-    transform: translateY(-1px);
-    margin-top: -1px;
+    transform: translateY(0);
     width: 32px;
-    height: 34px;
+    height: 33.5px;
     border: 1px solid rgb(204, 204, 204);
     background-color: #ebebeb;
     border-radius: 0 5px 5px 0;
