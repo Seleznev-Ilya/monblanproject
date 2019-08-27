@@ -315,9 +315,13 @@ input{
     cursor: pointer;
 
 }
-.anc{
+a{
     cursor: pointer;
     text-decoration:none;
+}
+
+.item-div{
+    cursor: pointer;
 }
 
 
